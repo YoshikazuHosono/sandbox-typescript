@@ -7,7 +7,7 @@
   "scripts": {
     "compile": "npx tsc",
     "compile-watch": "npx tsc --watch",
-    "action": "npx tsc && node dist/index.js"
+    "travel": "npx tsc && node dist/index.js"
   },
   "keywords": [],
   "author": "",
